@@ -84,6 +84,9 @@ set expandtab
 set ignorecase
 set smartcase
 
+" highlight search
+set hlsearch
+
 " Set Explortrt default view to NERDTree style
 let g:netrw_liststyle=3
 " And map shortcut
